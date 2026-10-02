@@ -24,12 +24,12 @@ export const navLinks = [
   { label: "Transparency", href: "#transparency" },
 ] as const
 
-// NOTE: placeholder figures — swap for Glory Orphanage's real counts before launch.
+// NOTE: random placeholder figures — swap for Glory Orphanage's real counts before launch.
 export const impactStats = [
-  { icon: "roofing", value: "—", label: "Children Housed & Loved" },
-  { icon: "school", value: "—", label: "Enrolled at the Community School" },
+  { icon: "roofing", value: "120+", label: "Children Housed & Loved" },
+  { icon: "school", value: "300+", label: "Enrolled at the Community School" },
   { icon: "restaurant", value: "Daily", label: "Warm Nutritious Meals" },
-  { icon: "verified", value: "—", label: "Years Serving Luanshya" },
+  { icon: "verified", value: "12+", label: "Years Serving Luanshya" },
 ] as const
 
 export const pillars = [
